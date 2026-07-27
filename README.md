@@ -57,8 +57,7 @@
 ```text
 .
 ├── README.md
-└── chapters
-    ├── chapter-01.md
-    ├── chapter-02.md
-    ├── chapter-03.md
-    └── chapter-04.md
+├── chapterXX
+|   ├── {챕터 제목}.md
+|   └── {딥다이브 주제}.md
+
