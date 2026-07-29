@@ -32,13 +32,11 @@
 - 질문이나 의견을 준비한다.
 - 발표 후 토론에 참여한다.
 
-## 주차별 순서
+## 책
 
-| 주차 | 챕터 | 정리 | 딥다이브 | 
-| --- | --- | --- | --- |
-| 0주차 | Chapter 2 | x | x |
-| 1주차 | Chapter 3 | 달수 | 밀란 |
-| 1주차 | Chapter 4 | 한다 | 제리 |
+| 주차 | 책 이름 | 보러가기 | 
+| --- | --- | --- |
+| 0주차 ~ n주차 | 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 | [보러가기](https://github.com/4minus1is0/book-study/tree/main/practical-knowledge-every-junior-backend-developer-must-know) |
 ...
 
 ## 발표 자료 작성 형식
@@ -57,7 +55,8 @@
 ```text
 .
 ├── README.md
-├── chapterXX
-|   ├── {챕터 제목}.md
-|   └── {딥다이브 주제}.md
+├── {책 이름}
+    ├── chapterXX
+      ├── {챕터 제목}.md
+      └── {딥다이브 주제}.md
 
