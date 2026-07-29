@@ -9,3 +9,10 @@
 
 <img width="436" height="561" alt="image" src="https://github.com/user-attachments/assets/08760a11-41f5-4ca2-b026-7d139c69ac51" />
 
+## 주차별 순서
+
+| 주차 | 챕터 | 정리 | 딥다이브 | 
+| --- | --- | --- | --- |
+| 0주차 | Chapter 2 | [x](https://github.com/4minus1is0/book-study/tree/main/practical-knowledge-every-junior-backend-developer-must-know/chapter02) | x | 
+| 1주차 | Chapter 3 | 달수 | 밀란 |
+| 1주차 | Chapter 4 | 한다 | 제리 |
